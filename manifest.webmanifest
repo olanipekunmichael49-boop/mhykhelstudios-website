@@ -1,0 +1,21 @@
+{
+  "name": "Mhykhel Studios",
+  "short_name": "Mhykhel",
+  "description": "Premium AI video branding for modern brands.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
